@@ -1,0 +1,11 @@
+﻿# data folders (download per README, or from the Zenodo archive)
+data_ML_paper_new_version/
+melbourne_water_flow_*/
+melbourne_water_rainfall_*/
+cml_data.zip
+data/
+# generated
+outputs/
+manuscript/
+__pycache__/
+*.docx
