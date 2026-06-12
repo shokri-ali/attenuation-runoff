@@ -1,8 +1,5 @@
-# Tested with Python 3.13.12
+﻿# Tested with Python 3.13.12
 numpy==2.4.6
 pandas==2.3.3
 scipy==1.17.1
 numba==0.65.1
-matplotlib==3.10.9
-pillow==12.2.0
-python-docx==1.2.0   # only for assembling the review .docx, not for the analysis
